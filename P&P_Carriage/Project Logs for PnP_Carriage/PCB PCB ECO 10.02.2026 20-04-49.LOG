@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C20 Old Footprint=CAPC1608X06M New Footprint=CAPC1005X04N
+Change Component Footprint: Designator=C21 Old Footprint=CAPC1608X06M New Footprint=CAPC1005X04N
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAPC1608X06M"; UniqueID = "\QLZKSILO\KGJEMJCZ" ("\QLZKSILO\KGJEMJCZ")
+Change component parameters (AddParameter): Name = "DielectricType"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerant"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC1608X06M"; UniqueID = "\QLZKSILO\PGGHYHNC" ("\QLZKSILO\PGGHYHNC")
+Change component parameters (AddParameter): Name = "DielectricType"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerant"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"

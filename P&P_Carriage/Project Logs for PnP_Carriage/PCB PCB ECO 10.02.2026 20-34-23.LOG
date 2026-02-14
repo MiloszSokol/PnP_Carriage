@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R16 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R17 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change Component Footprint: Designator=R18 Old Footprint=RESC1608X06N New Footprint=RESC1005X03N
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\VAUKHFCY" ("\QLZKSILO\VAUKHFCY")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\GAANXWLA" ("\QLZKSILO\GAANXWLA")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\FOEUCAJL" ("\QLZKSILO\FOEUCAJL")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\DFIMLVTB" ("\QLZKSILO\DFIMLVTB")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\ZLCQARKE" ("\QLZKSILO\ZLCQARKE")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\XNFNRGDE" ("\QLZKSILO\XNFNRGDE")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\QEISRQHF" ("\QLZKSILO\QEISRQHF")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\OVSMTNVR" ("\QLZKSILO\OVSMTNVR")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RESC1608X06N"; UniqueID = "\QLZKSILO\UCNLRBGV" ("\QLZKSILO\UCNLRBGV")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"

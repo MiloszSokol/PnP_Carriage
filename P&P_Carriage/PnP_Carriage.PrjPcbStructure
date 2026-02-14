@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Root.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=OPTOCUPLERS|SchDesignator=OPTOCUPLERS|FileName=Optocuplers.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Optocuplers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=STEPPER MOTOR DRIVERS|SchDesignator=STEPPER MOTOR DRIVERS|FileName=StepperMotorDrivers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=StepperMotorDrivers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
