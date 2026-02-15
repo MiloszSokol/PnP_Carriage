@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=+5VOUT_TMC1 Pin=C18-2
+Added Pin To Net: NetName=+5VOUT_TMC1 Pin=U2-8
+Added Net: Name=+5VOUT_TMC1
+Added Pin To Net: NetName=+5VOUT_TMC2 Pin=C26-2
+Added Pin To Net: NetName=+5VOUT_TMC2 Pin=U3-8
+Added Net: Name=+5VOUT_TMC2
+Added Pin To Net: NetName=+5VOUT_TMC3 Pin=C3-2
+Added Pin To Net: NetName=+5VOUT_TMC3 Pin=U1-8
+Added Net: Name=+5VOUT_TMC3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=+VREF_TMC1 Pin=C19-2
+Added Pin To Net: NetName=+VREF_TMC1 Pin=U2-17
+Added Net: Name=+VREF_TMC1
+Added Pin To Net: NetName=+VREF_TMC2 Pin=C27-2
+Added Pin To Net: NetName=+VREF_TMC2 Pin=U3-17
+Added Net: Name=+VREF_TMC2
+Added Pin To Net: NetName=+VREF_TMC3 Pin=C4-2
+Added Pin To Net: NetName=+VREF_TMC3 Pin=U1-17
+Added Net: Name=+VREF_TMC3
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10

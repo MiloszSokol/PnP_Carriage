@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R38 Old Footprint=RESC3216X14N New Footprint=RESC1608X06L
+Change component parameters: Designator = "R38" ("R38"); Footprint = "RESC3216X14N"; UniqueID = "\EUQUCMDG" ("\EUQUCMDG")
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ISO_DIR_C Pin=R31-1
+Removed Pin From Net: NetName=ISO_MOTOR_EN Pin=R32-1
+Removed Pin From Net: NetName=DIR_C Pin=R33-1
+Removed Pin From Net: NetName=MOTOR_EN Pin=R34-1
+Removed Pin From Net: NetName=ISO_STEP_C Pin=R35-1
+Removed Pin From Net: NetName=STEP_C Pin=R36-1
+Added Pin To Net: NetName=ISO_MOTOR_EN Pin=R31-1
+Added Pin To Net: NetName=ISO_STEP_C Pin=R32-1
+Added Pin To Net: NetName=MOTOR_EN Pin=R33-1
+Added Pin To Net: NetName=STEP_C Pin=R34-1
+Added Pin To Net: NetName=ISO_DIR_C Pin=R35-1
+Added Pin To Net: NetName=DIR_C Pin=R36-1
+Added Member To Class: ClassName=STEPPER MOTOR DRIVERS Member=Component C10 100nF/50V
